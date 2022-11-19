@@ -8,12 +8,10 @@ All you really got to do is ***ctrl + c*** the folder and then ***ctrl + v*** it
 This code is clumsy for sure but you know the drill, **It WORKS!!!** for sure.
 But together we can make it work even better and cleaner.
 
-..now stop reading me and FORK it. 
-.
-.
-.
-.
-.
-.
-.
-### I said Smash the FORK button already!,
+...now stop reading me and FORK it. 
+ .
+ .
+ .
+ .
+ .
+### I said smash the FORK button already!,
